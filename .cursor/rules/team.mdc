@@ -1,0 +1,8 @@
+---
+description: AI Team — system of AI-simulated professionals
+alwaysApply: true
+---
+
+This project's instructions live in `AGENTS.md` (source of truth, tool-agnostic).
+
+Read and follow `AGENTS.md`: persona roster, invocation modes (manual / auto-route / handoff), global communication rules, and base rules for each persona. Deep contexts in `ai/professionals/[name]/`.
